@@ -1,0 +1,15 @@
+.country{
+    border: 5px solid steelblue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.visited{
+    background-color: aqua;
+}
+
+.flag-container{
+    width: 50%;
+}
